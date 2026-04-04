@@ -11,7 +11,6 @@ I spend my days politely asking machines to reveal their secrets (ethically, of 
 ### What am i particularly good at..?💻🛠📡
 Computer Repairs and Network Maintenance with a Smile 😄
 with a Digital Duct Tape and i then Patch-Reboot-And-Pray 🙏
----
 
 ### Tools & Technologies I use most
 - **Languages**: Bash, Python
