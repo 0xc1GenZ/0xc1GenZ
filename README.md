@@ -1,4 +1,5 @@
 # Hello There Friend, I'm Oxcy👾
+![unnamed](https://github.com/user-attachments/assets/0f4b9d00-6821-4380-af6e-fcb19c6727fa)
 
 **Exciting time in the world right now..!**
 
