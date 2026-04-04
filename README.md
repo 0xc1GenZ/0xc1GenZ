@@ -22,8 +22,6 @@ Computer Repairs and Network Maintenance with a Smile 😄, using a Digital Duct
 
 ### How to reach me
 - **E-Mail**: o2oxcygen@gmail.com📫
-- **GitHub**: [@0xc1GenZ](https://github.com/0xc1GenZ) 🕵
-
 ---
 
 **Building the next generation of intelligent defense — one clean line of code at a time.**
