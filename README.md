@@ -10,7 +10,7 @@ An ancient cyber relic who still remembers dial-up modems, now wandering the mod
 I spend my days politely asking machines to reveal their secrets (ethically, of course) and my nights wondering why my coffee gets cold faster than a zero-day exploit, and then question all my life choices every time the confusion matrix looks suspicious.
 
 ### What am i particularly good at..?💻🛠📡
-Computer Alchemy and Network Maintenance and all other "tech" that comes with a Smile 😄, and decent at using a Digital Duct Tape then i Patch-Reboot-And-Pray 🙏
+Computer Alchemy and Network Maintenance and all other *tech that comes with a Smile 😄, and decent at using a Digital Duct Tape then i Patch-Reboot-And-Pray 🙏
 
 ### Tools & Technologies I use most
 - **Languages**: Bash, Python
